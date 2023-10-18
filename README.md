@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mcgillivary_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@mcgillivary_dev?logo=twitter&style=for-the-badge" alt="@mcgillivary_dev" /></a> </p>
 
-- 🔭 I’m currently working on [Algorithm-Visualizer](https://github.com/Revenant70/Algorithm-Visualizer)
+- 🔭 I’m currently working on [LockBox](https://github.com/Revenant70/LockBox)
 
 - 🌱 I’m currently learning **React**
 
@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **jackmcg777@protonmail.com**
 
-- ⚡ Fun fact **Coconuts kill more people then sharks**
+- ⚡ Fun fact **Coconuts kill more people than sharks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/revenant70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="revenant70" height="30" width="40" /></a>
 <a href="https://twitter.com/@mcgillivary_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mcgillivary_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jackson mcgillivary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackson mcgillivary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jackson-mcgillivary-297802266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackson mcgillivary" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/revenant70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="revenant70" height="30" width="40" /></a>
 </p>
 
