@@ -3,19 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/@mcgillivary_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@mcgillivary_dev?logo=twitter&style=for-the-badge" alt="@mcgillivary_dev" /></a> </p>
 
-- 🔭 I’m currently working on [LockBox](https://github.com/Revenant70/LockBox)
+- 🔭 I’m currently working on [](https://github.com/Revenant70/LockBox)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **All sorts of projects**
 
 - 👨‍💻 All of my projects are available at [https://www.jacksonmcgillivary.dev/](https://www.jacksonmcgillivary.dev/)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Spring**
 
 - 📫 How to reach me **jackmcg777@protonmail.com**
-
-- ⚡ Fun fact **Coconuts kill more people than sharks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
